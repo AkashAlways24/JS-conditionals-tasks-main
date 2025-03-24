@@ -34,3 +34,5 @@ else if (age >= 60){
 else{
     console.log('payment', price);
 }
+
+// Home word ok
